@@ -1,1 +1,1 @@
-# Install_All_Visual_C-
+Download file zip of gitclone and Run as administrator
